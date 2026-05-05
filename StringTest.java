@@ -1,18 +1,6 @@
 import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
-/*
- * Class: CMSC201 CRN30111
- * Instructor: Grigoriy A. Grinberg
- * Description: (Tests length(), charAt(), and the overloaded methods indexOf and substring in String class)
- * Due: 05/11/26
- * I pledge that I have completed the programming assignment independently.
-   I have not copied the code from a student or any source.
-   I have not given my code to any student.
-   Print your Name here: Alexander Zlodorev
-*/
-
-
 class StringTest {
 	String str = "Hello from Eclipse, JUnit!";
 	int lengthOfStr = str.length();
