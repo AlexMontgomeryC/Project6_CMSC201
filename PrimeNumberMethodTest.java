@@ -1,4 +1,3 @@
-package project6P2;
 import java.util.Scanner;
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test;
