@@ -1,5 +1,3 @@
-package project6P2;
-
 public class PrimeNumberMethod {
   public static void main(String[] args) {
     System.out.println("The first 50 prime numbers are \n");
